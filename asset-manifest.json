@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.533a3337.css",
-    "main.js": "/static/js/main.a3a5a4dd.js",
+    "main.js": "/static/js/main.a4e41fde.js",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.533a3337.css",
-    "static/js/main.a3a5a4dd.js"
+    "static/js/main.a4e41fde.js"
   ]
 }
